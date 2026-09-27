@@ -52,8 +52,6 @@
 - 4th Runner-Up, Intra Department Programming Contest 2021 (Junior Category)
 - 8th Rank, CSE MBSTU Eid Vacation Contest 2021 (Junior Category)
 - 6th Runner-Up, Intra Department Programming Contest 2022
-- Certified: Learnathon 3.0 by Geeky Solutions
-- Certified: Digital Skills for Students (EDGE Program), ICT Division
 
 ---
 <p align="center"><i>🎓 BSc in Computer Science and Engineering, Mawlana Bhashani Science and Technology University (2020 – 2026)</i></p>
