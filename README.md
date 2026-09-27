@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nasif Uz Zaman</h1>
 
+![Profile Views](https://komarev.com/ghpvc/?username=nasif-zaman38&color=blue&style=for-the-badge)
+
 ### 👨‍💻 About Me
 Aspiring Software Engineer with a strong interest in backend development, problem solving, and AI-powered applications. Currently focused on Java, Spring Boot, PostgreSQL, and building practical software projects.
 
