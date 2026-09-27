@@ -1,18 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nasif Uz Zaman</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
 
-- 🔭 I’m currently learning **Java, Spring Boot**
-- 📫 Reach me at: **nasif.mbstu.cse@gmail.com**
-- 🌱 My Portfolio Live Site: **[nasif-zaman38.github.io/my-portfolio](https://nasif-zaman38.github.io/my-portfolio/)**
+### 👨‍💻 About Me
+Aspiring Software Engineer with a strong interest in backend development, problem solving, and AI-powered applications. Currently focused on Java, Spring Boot, PostgreSQL, and building practical software projects.
 
-
-### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasif-uz-zaman-30139330a/)
-
-### 🧠 Problem Solving
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/nasifuzzaman)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nasifuzzaman)
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-004080?style=for-the-badge&)](https://judge.beecrowd.com/en/profile/742962)
+### 🔗 **My Portfolio Live Site:** [nasif-zaman38.github.io/my-portfolio](https://nasif-zaman38.github.io/my-portfolio/)
 
 ### 🛠️ Programming Language
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -36,6 +27,10 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
+### 🧠 Problem Solving
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/nasifuzzaman)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nasifuzzaman)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-004080?style=for-the-badge&)](https://judge.beecrowd.com/en/profile/742962)
 
 ### 🚀 Featured Projects
 - **[AI-powered Personalized Food and Health Assistant](https://github.com/nasif-zaman38/AI-powered-Personalized-Food-and-Health-Assistant-Application)**<br>
@@ -54,6 +49,13 @@
 - 4th Runner-Up, Intra Department Programming Contest 2021 (Junior Category)
 - 8th Rank, CSE MBSTU Eid Vacation Contest 2021 (Junior Category)
 - 6th Runner-Up, Intra Department Programming Contest 2022
+
+### 📫 Reach me at 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nasif.mbstu.cse@gmail.com)
+
+### 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasif-uz-zaman-30139330a/)
+
 
 ---
 <p align="center"><i>🎓 BSc in Computer Science and Engineering, Mawlana Bhashani Science and Technology University (2020 – 2026)</i></p>
